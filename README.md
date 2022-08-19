@@ -1,7 +1,7 @@
-# Purwadhika Job Connector Data Science Final Project
+# Job Connector Data Science Final Project
 ## Heart Disease Prediction Web App
 
-This repository contain my final project in [Purwadhika](https://purwadhika.com/jc-data-science) Job Connector - Data Science Program. 
+This repository contain my final project in (https://purwadhika.com/jc-data-science) Job Connector - Data Science Program. 
 
 Using heart disease dataset from [kaggle.com](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset), I compare 4 Machine Learning model: 
 
@@ -54,6 +54,3 @@ Hope you like this page and it will be useful for your learning.
 
 😊😊👊👊
 ___
-
-Reach me out at:
-[Linkedin](https://www.linkedin.com/in/nickodemus-richard-rinaldi/)
